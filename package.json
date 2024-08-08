@@ -45,6 +45,8 @@
     "sequelize-cli": "6.4.1"
   },
   "dependencies": {
+    "joi": "^17.13.3",
+    "axios": "^0.26.1",
     "react-icons": "^4.8.0",
     "react-select": "^5.7.2"
   }
